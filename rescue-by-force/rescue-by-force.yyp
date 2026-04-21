@@ -3,7 +3,11 @@
   "resourceVersion": "1.6",
   "name": "rescue-by-force",
   "resources": [
+    {"id":{"name":"spr_warrior_up","path":"sprites/spr_warrior_up/spr_warrior_up.yy",},"order":2,},
     {"id":{"name":"Battle_Room","path":"rooms/Battle_Room/Battle_Room.yy",},"order":1,},
+    {"id":{"name":"spr_warrior_left","path":"sprites/spr_warrior_left/spr_warrior_left.yy",},"order":3,},
+    {"id":{"name":"spr_warrior_right","path":"sprites/spr_warrior_right/spr_warrior_right.yy",},"order":1,},
+    {"id":{"name":"spr_warrior_down","path":"sprites/spr_warrior_down/spr_warrior_down.yy",},"order":0,},
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},"order":0,},
   ],
   "Options": [
