@@ -12,6 +12,7 @@
     {"id":{"name":"spr_swordeffects","path":"sprites/spr_swordeffects/spr_swordeffects.yy",},"order":6,},
     {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"order":1,},
     {"id":{"name":"spr_warrior_right","path":"sprites/spr_warrior_right/spr_warrior_right.yy",},"order":5,},
+    {"id":{"name":"male_hero_walk","path":"sprites/male_hero_walk/male_hero_walk.yy",},"order":15,},
     {"id":{"name":"spr_mainsword","path":"sprites/spr_mainsword/spr_mainsword.yy",},"order":4,},
     {"id":{"name":"spr_warrior_down","path":"sprites/spr_warrior_down/spr_warrior_down.yy",},"order":0,},
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},"order":0,},
