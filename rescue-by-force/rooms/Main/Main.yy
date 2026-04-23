@@ -18,6 +18,7 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"main_sword","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57A9FA0A","properties":[],"isDnd":false,"objectId":{"name":"obj_mainsword","path":"objects/obj_mainsword/obj_mainsword.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1216.0,"y":320.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7E7FD1D6","properties":[],"isDnd":false,"objectId":{"name":"obj_warrior","path":"objects/obj_warrior/obj_warrior.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2400.0,"y":864.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"sword_particles","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_29F7A30E","spriteId":{"name":"spr_swordeffects","path":"sprites/spr_swordeffects/spr_swordeffects.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":3.3999999,"scaleY":5.48,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1696.0,"y":1056.0,},
@@ -29,6 +30,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_57A9FA0A","path":"rooms/Main/Main.yy",},
+    {"name":"inst_7E7FD1D6","path":"rooms/Main/Main.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
