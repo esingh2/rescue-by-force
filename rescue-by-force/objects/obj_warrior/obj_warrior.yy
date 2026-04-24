@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_warrior",
-  "spriteId": {
-    "name": "spr_warrior_down",
-    "path": "sprites/spr_warrior_down/spr_warrior_down.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
