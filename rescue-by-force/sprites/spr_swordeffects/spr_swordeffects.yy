@@ -162,7 +162,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Swords",
+    "path": "folders/Spr_Props/Swords.yy",
   },
 }

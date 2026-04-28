@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Model_03",
-    "path": "folders/Spr_Environment/Props/Static/Trees/Model_03.yy",
+    "path": "folders/Spr_Props/Static/Trees/Model_03.yy",
   },
 }

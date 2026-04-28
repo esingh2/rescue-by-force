@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Animated",
-    "path": "folders/Spr_Environment/Props/Animated.yy",
+    "path": "folders/Spr_Props/Animated.yy",
   },
 }
