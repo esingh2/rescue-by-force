@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "rescue-by-force",
+    "path": "rescue-by-force.yyp",
   },
 }
