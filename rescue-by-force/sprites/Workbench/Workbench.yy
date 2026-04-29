@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Workbench",
-    "path": "folders/Spr_Environment/Structures/Stations/Workbench.yy",
+    "name": "Structures",
+    "path": "folders/Spr_Environment/Structures.yy",
   },
 }
